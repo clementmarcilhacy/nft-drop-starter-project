@@ -1,0 +1,19 @@
+{
+  "name": "luxurious toilet paper roll",
+  "symbol": "paper1",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HktUSvJPYjp2dwb4LfmiMzXSK8p9Axtv8AcSpo4fuoG4",
+        "share": 100
+      }
+    ]
+  }
+}

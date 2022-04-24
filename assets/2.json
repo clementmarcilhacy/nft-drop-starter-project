@@ -1,0 +1,19 @@
+{
+  "name": "white toilet paper roll",
+  "symbol": "paper3",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HktUSvJPYjp2dwb4LfmiMzXSK8p9Axtv8AcSpo4fuoG4",
+        "share": 100
+      }
+    ]
+  }
+}
